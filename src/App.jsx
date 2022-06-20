@@ -1,5 +1,5 @@
 
-import Scene from './components/Scene4';
+import Scene from './components/SceneWithModel';
 
 const App = ()=> {
   
