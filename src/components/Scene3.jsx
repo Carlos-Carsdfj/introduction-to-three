@@ -43,7 +43,7 @@ const Scene = () => {
       aoMap:aoMap,
       roughnessMap:roughnessMap,
       normalMap:normalMap,
-      displacementMap:heightMap,
+      displacementMap:heightMap, 
       displacementScale:0.02
       //wireframe:true
     })
